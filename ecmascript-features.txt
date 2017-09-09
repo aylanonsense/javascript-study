@@ -1,0 +1,81 @@
+ECMAScript 2017 / ES2017 / ES8 (2017)	
+	async await							got it
+	shared memory / atomics				
+	Object methods:						
+		.entries()						TODO
+		.keys()							TODO
+		.getOwnPropertyDescriptors()	
+	String methods:						
+		.padStart()						
+		.padEnd()						
+
+ECMAScript 2016 / ES2016 / ES7 (2016)	
+	exponentiation operator / **		
+
+ECMAScript 6 / ES6 / ES2015 (2015)		
+	let + const							got it
+	arrow functions						TODO
+	default parameter values			
+	spread operator / rest parameter	got it
+	string interpolation				TODO
+	binary literals						
+	unicode								
+	property / method shorthand			got it
+	computed property names				
+	destructuring						got it
+	export + import						TODO
+	class definitions + inheritance		TODO
+	symbols								TODO
+	iterables / generators / for of		TODO
+	Set / Map / WeakSet / WeakMap		TODO
+	typed arrays						TODO
+	promises + Promise.all				TODO
+	Intl methods:						
+		.NumberFormat()					
+		.Collator()						
+		.DateTimeFormat()				
+	Object methods:						
+		.assign()						TODO
+	Array methods:						
+		.find()							TODO
+		.findIndex()					TODO
+	String methods:						
+		.repeat()						
+		.startsWith()					
+		.endsWith()						
+		.includes()						
+	Number methods:						
+		.isNaN()						
+		.isFinite()						
+		.isSafeInteger()				
+		.EPSILON						
+	Math methods:						
+		.trunc()						TODO
+		.sign()							
+
+ECMAScript 5 / ES5 (2009)				
+	Strict mode							
+	Accessors (getters and setters)		got it
+	Object methods:						
+		.create()						
+		.defineProperty()				
+		.keys()							
+		.getOwnPropertyNames()			
+	Function methods:					
+		.bind()							got it
+	String methods:						
+		.trim()							
+	Array methods:						
+		.every()						
+		.filter()						
+		.forEach()						
+		.indexOf()						
+		.lastIndexOf()					
+		.map()							
+		.reduce()						
+		.some()							
+	Date methods:						
+		.now()							
+	JSON methods:						
+		.parse()						
+		.stringify()					

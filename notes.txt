@@ -1,0 +1,7 @@
+other things to review:
+	babel
+	webpack
+	HTML5 (2014)
+	HTML 5.1 (2016)
+	CSS
+	Web workers
